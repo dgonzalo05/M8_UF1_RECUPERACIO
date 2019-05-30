@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity implements Comentari_Fragmen
 
         MyBBDD_Helper dbHelper = new MyBBDD_Helper(this);
         SQLiteDatabase db = dbHelper.getWritableDatabase();
-        
+
         ContentValues values = new ContentValues();
         values.put(MyBBDD_Schema.EntradaBBDD.COLUMNA1,username);
         values.put(MyBBDD_Schema.EntradaBBDD.COLUMNA2, password);
