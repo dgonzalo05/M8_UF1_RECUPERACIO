@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239676709224",
+    "firebase_url": "https://m8uf1recuperacio.firebaseio.com",
+    "project_id": "m8uf1recuperacio",
+    "storage_bucket": "m8uf1recuperacio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239676709224:android:e69ad251a36f3947",
+        "android_client_info": {
+          "package_name": "org.dgonzalo.m8_uf1_recuperacio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239676709224-9bubau66a7k23jqskor6r90qd95i8bo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dgonzalo.m8_uf1_recuperacio",
+            "certificate_hash": "27f5f2114c0bda405b1f79370ad7721723d17803"
+          }
+        },
+        {
+          "client_id": "239676709224-q1jr34a9lqgsmtu0662he1nrpma8g6if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCceWzuq_NpG5NCqcXK69ZtNMe-jKwYm80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239676709224-q1jr34a9lqgsmtu0662he1nrpma8g6if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
